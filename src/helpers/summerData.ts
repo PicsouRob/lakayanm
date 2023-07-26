@@ -21,7 +21,7 @@ export const summerData: SummerData[] = [
     {
         image: "/images/fortoge1.jpg",
         text: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
-        city: "Kap wouj",
+        city: "Kap wouj                                                   ",
         name: "Fort Oge",
     },
     {

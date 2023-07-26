@@ -19,7 +19,7 @@ const HeaderContent: React.FC<HeaderProps> = (
                         <span className="block mb-2 text-lg font-semibold text-primary text-principal">
                             {subTitle}
                         </span>
-                        <h2 className="mb-4 text-3xl font-bold text-dark sm:text-4xl md:text-[40px]">
+                        <h2 className="mb-4 text-2xl font-bold tracking-tight md:text-4xl lg:text-5xl">
                             {title}
                         </h2>
                         <p className="text-base text-body-color">
@@ -28,7 +28,7 @@ const HeaderContent: React.FC<HeaderProps> = (
                     </div>
                 </div>
                 <div className="">
-                    <Link to={link} className="text-principal bg-principal/20 px-4 py-2 shadow-sm hover:bg-secundary hover:text-white rounded-sm">Dekouvri plis</Link>
+                    <Link to={link} className="text-secundary bg-secundary/10 px-4 py-2 shadow-sm hover:bg-secundary hover:text-white rounded-sm">Dekouvri plis</Link>
                 </div>
             </div>
         </>

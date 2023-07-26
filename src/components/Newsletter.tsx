@@ -7,8 +7,8 @@ const Newsletter: React.FC = () => {
             <div className="bg-gray-100">
                 <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                     <div className="mx-auto max-w-screen-md sm:text-center">
-                        <h2 className="mb-4 text-3xl tracking-tight font-extrabold text-dark sm:text-4xl">Enskri pou bilten nou an</h2>
-                        <p className="mx-auto mb-8 max-w-2xl text-gray-700 md:mb-12 text-base text-body-color">
+                        <h2 className="text-center text-2xl font-bold tracking-tight md:text-4xl lg:text-5xl">Enskri pou bilten nou an</h2>
+                        <p className="max-w-xl mx-auto my-4 text-base leading-relaxed text-dark">
                             Rete ajou ak nouvo aktive, blog e tout jan de nouvel konsenan touris nan peyi a. Ou lib pou w enskri ak imel ou.
                         </p>
                         <form action="#">

@@ -8,7 +8,7 @@ const Faq: React.FC = () => {
             <section className="py-10 bg-white sm:py-16 lg:py-24">
                 <div className="max-w-5xl px-4 mx-auto sm:px-6 lg:px-8">
                     <div className="max-w-2xl mx-auto text-center">
-                        <h2 className="text-3xl font-bold leading-tight text-dark sm:text-4xl lg:text-5xl">Questions & Answers</h2>
+                        <h2 className="text-2xl font-bold leading-tight text-dark md:text-4xl lg:text-5xl">Questions & Answers</h2>
                         <p className="max-w-xl mx-auto mt-4 text-base leading-relaxed text-dark">Explore the common questions and answers about Celebration</p>
                     </div>
 
